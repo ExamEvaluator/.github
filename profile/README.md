@@ -1,6 +1,6 @@
 # ![ExamEvaluator's logo](https://github.com/ExamEvaluator.png?size=40) ExamEvaluator
 
-> **NOTE:** Thông tin ở đây được viết bằng tiếng Anh. Để đọc thông tin bằng tiếng Việt, [nhấn vào đây](README_VI.md).
+> **NOTE:** Thông tin ở đây được viết bằng tiếng Anh. Để đọc thông tin bằng tiếng Việt, [nhấn vào đây](profile/README_VI.md).
 
 ExamEvaluator is a (work-in-progress) program, utilizing different LLMs **to evaluate, fix and improve tests** before handing out to students.
 
