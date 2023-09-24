@@ -1,8 +1,8 @@
-# ![ExamEvaluation's logo](https://github.com/ExamEvaluator.png?size=40) ExamEvaluation
+# ![ExamEvaluator's logo](https://github.com/ExamEvaluator.png?size=40) ExamEvaluator
 
 > **NOTE:** Thông tin ở đây được viết bằng tiếng Anh. Để đọc thông tin bằng tiếng Việt, [nhấn vào đây](README_VI.md).
 
-ExamEvaluation is a (work-in-progress) program, utilizing different LLMs **to evaluate, fix and improve tests** before handing out to students.
+ExamEvaluator is a (work-in-progress) program, utilizing different LLMs **to evaluate, fix and improve tests** before handing out to students.
 
 The project is aimed towards teachers, educators, and anyone who need to design tests frequently.
 

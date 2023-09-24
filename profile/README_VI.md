@@ -1,8 +1,8 @@
-# ![ExamEvaluation's logo](https://github.com/ExamEvaluator.png?size=40) ExamEvaluation
+# ![ExamEvaluator's logo](https://github.com/ExamEvaluator.png?size=40) ExamEvaluator
 
 > **NOTE:** The information written here is in Vietnamese. To read the English version, [click on this hyperlink](profile/README.md).
 
-ExamEvaluation là chương trình (trong quá trình hoàn thiện), ứng dụng những LLM (Large Language Model - mô hình ngôn ngữ lớn) **để phân tích, sửa đổi & cải thiện các câu hỏi trong các bài kiểm tra** trước khi phát cho học sinh.
+ExamEvaluator là chương trình (trong quá trình hoàn thiện), ứng dụng những LLM (Large Language Model - mô hình ngôn ngữ lớn) **để phân tích, sửa đổi & cải thiện các câu hỏi trong các bài kiểm tra** trước khi phát cho học sinh.
 
 Dự án được nhắm đến các thầy cô giáo, những ai làm trong mảng giáo dục, hay những ai có nhu cầu thiết kế đề bài cho các bài kiểm tra thường xuyên.
 
