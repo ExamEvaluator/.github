@@ -14,7 +14,7 @@ The project is aimed towards teachers, educators, and anyone who need to design 
 
 ## Usage
 
-The program aims to achieve these goals:
+This app aims to achieve these goals:
 
 - Fixing logical errors in the user's test questions
 - Pointing out inconsistencies that may be present in the exam

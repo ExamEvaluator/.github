@@ -14,7 +14,7 @@ Dự án được nhắm đến các thầy cô giáo, những ai làm trong m�
 
 ## Mục đích
 
-Chương trình được lập nên với các mục đích sau:
+Ứng dụng này được phát triển với các mục đích sau:
 
 - Sửa các lỗi về lô-gíc trong bài thi của người dùng
 - Chỉ ra các điểm diễn đạt thiếu mạch lạc (nếu có) trong bài thi
