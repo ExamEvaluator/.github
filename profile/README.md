@@ -4,7 +4,7 @@
 
 ExamEvaluator is a (work-in-progress) web application, utilizing different LLMs (Large Language Models) **to evaluate, fix and improve tests** before handing out to students.
 
-This app also has an OCR (Optical Character Recognition) program built-in, allowing users to upload exam documents as photo files (`.png`, `.jpg`, etc.)
+This app also has an OCR (Optical Character Recognition) app built-in, allowing users to upload exam documents as photo files (`.png`, `.jpg`, etc.)
 
 Supported language: **English** and **Vietnamese**
 
